@@ -3,9 +3,8 @@
 @version      2024.07.31
 @namespace    userstyles.world/user/thomasluigi07
 @description  This is a work-in progress skeuomorphic theme for Roblox. It uses elements from Windows XP, old iOS versions and others. Supports both Light Mode and Dark Mode.
-@author       thomasluigi07
-@homepageURL  https://github.com/Thomasluigi07/SKEUOROBLOX
-@supportURL   https://github.com/Thomasluigi07/SKEUOROBLOX/issues
+@author       tamasina07
+@homepageURL  https://github.com/Tamasina07/SKEUOROBLOX
 @license      No License
 @preprocessor less
 @var		  select FontFamily "Font" ["Lucida Grande", "Helvetica Neue", "Helvetica", "Convection Medium", "Tahoma", "SF Pro", "Comic Sans MS", "Papyrus",  "Arial*", "Times New Roman"]
@@ -33,7 +32,7 @@
 url-prefix("https://web.roblox.com") {
 	/*Skeuomorphic Theme for ROBLOX*/
 	/*
-By Thomasluigi07 and TersisWilvin (9T2K)
+By Tamasina07 and TersisWilvin (9T2K)
 
 Hey, thanks for downloading this!
 Make sure to keep updating this theme, I am constantly adding features to it.
